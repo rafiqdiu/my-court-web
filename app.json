@@ -1,0 +1,49 @@
+{
+  "expo": {
+    "ios": {
+      "buildNumber": "33",
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sel.JudgeCourt.com",
+      "config": {
+        "usesNonExemptEncryption": false
+      }
+    },
+    "version": "1.3.3",
+    "name": "BD Judge Court",
+    "description": "My Cause List.",
+    "slug": "MyCourt",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#0157bf"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.sel.JudgeCourt.com",
+      "versionCode": 33,
+      "intentFilters":[{  "action": "VIEW", "data": { "scheme": "app", "host": "judgeCourt" }, "category": ["BROWSABLE", "DEFAULT"] }]
+    },
+    "web": {
+      "name": "BDJudgeCourt.com",
+      "themeColor": "#0157bf",
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "eb24f2e7-a783-4b83-ba8e-d634f6d99091"
+      }
+    }
+  }
+}

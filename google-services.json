@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1014060106655",
+    "project_id": "judgecourt-fb719",
+    "storage_bucket": "judgecourt-fb719.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014060106655:android:3b14b5e68d0e45a21633aa",
+        "android_client_info": {
+          "package_name": "com.sel.JudgeCourt.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014060106655-bl425etfl9280fic8ojmqbmpvjrpsrhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpcOTHiQXiS_0RUk7-fht9RGL6paO6_O0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014060106655-bl425etfl9280fic8ojmqbmpvjrpsrhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
